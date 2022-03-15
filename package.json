@@ -1,0 +1,21 @@
+{
+  "name": "vuepress-platform-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "core-js": "^2.6.12",
+    "vuepress": "^1.9.7",
+    "webpack": "^4.46.0"
+  },
+  "dependencies": {
+    "ant-design-vue": "^1.7.8",
+    "cd-platform-ui": "^0.1.5"
+  }
+}
