@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{890:function(n,e,r){"use strict";r.r(e);var t={name:"press",render:function(){var n=arguments[0];return n("Card",{attrs:{type:"task"}})}},a=r(32),s=Object(a.a)(t,void 0,void 0,!1,null,null,null);e.default=s.exports}}]);
